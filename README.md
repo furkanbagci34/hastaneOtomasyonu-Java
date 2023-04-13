@@ -1,4 +1,4 @@
-### hastaneOtomasyonu-Java @2018
+### hastaneOtomasyonu-Java @2019
 
 Üniversitede "Görsel Programlama" dersi için yapmış olduğum hastane otomasyonu.
 
